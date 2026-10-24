@@ -1,0 +1,13 @@
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: geolocation=(self)
+  X-Robots-Tag: noindex, nofollow, noarchive
+
+/stations.json
+  Cache-Control: no-store, max-age=0
+  X-Robots-Tag: noindex, nofollow, noarchive
+
+/config.js
+  Cache-Control: no-store, max-age=0
